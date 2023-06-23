@@ -2,9 +2,6 @@
 
 Cree esta página no solo para ayudar a la comunidad intentando describir brevemente y de manera practica como funciona el desarrollo web desde la perspectiva de angular, con mi conocimiento, sino tambien para reforzar los contenidos que voy aprendiendo. A medida que vaya avanzando el proyecto la idea será abordar la mayor cantidad de temas posibles y enseñarlos con ejemplos a través de esta página. Muchas gracias y disfruten."		
 
-
-# ApendiceDeDesarrolloWeb
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
 
 ## Development server
