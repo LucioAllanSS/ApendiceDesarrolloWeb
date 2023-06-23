@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: pink;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    h1{
+        margin: 10px;
+    }
+    nav{
+        width: 500px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        #BP{
+            margin-left: -13px;
+            padding: 3px;
+            width: 150px;
+            border-radius: 9px;
+            border-color: solid 5px black ;
+        }
+        a{
+            text-decoration: none;
+            color: inherit;
+        }
+        a:hover{
+            color: gray;
+        }
+        input{
+            width: 55px;
+        }
+    }
+}
